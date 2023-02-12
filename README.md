@@ -20,9 +20,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### The challenge
 
-Users should be able to:
-
-- See hover states for interactive elements
+I managed to pass this challnge. Users are be able to see card's mobile and desktop versions. also, they can sees hover states for interactive elements in desktop version. I added footnote to the card with challenge source link and author's name (linked to my Github page)
 
 ### Screenshot
 
@@ -32,8 +30,8 @@ and this is a desktop version: ![](./images/screenshot-desktop.JPG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Aleqsa123/order-summary)
+- Live Site URL: [Github pages](https://aleqsa123.github.io/order-summary/)
 
 ## My process
 
