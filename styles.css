@@ -181,7 +181,7 @@ h2 {
 
     main {
         height: 697px;
-        width: 450px;
+        max-width: 450px;
         border-radius: 20px;
         margin-top: 102px;
         margin-right: auto;
